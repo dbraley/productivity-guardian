@@ -1,0 +1,30 @@
+{
+  "blocked_sites": [
+    "youtube.com",
+    "www.youtube.com",
+    "facebook.com",
+    "www.facebook.com",
+    "twitter.com",
+    "www.twitter.com",
+    "instagram.com",
+    "www.instagram.com",
+    "reddit.com",
+    "www.reddit.com",
+    "tiktok.com",
+    "www.tiktok.com"
+  ],
+  "educational_sites": [
+    "khanacademy.org",
+    "www.khanacademy.org",
+    "coursera.org",
+    "www.coursera.org",
+    "edx.org",
+    "www.edx.org",
+    "codecademy.com",
+    "www.codecademy.com"
+  ],
+  "daily_goal_minutes": 30,
+  "check_interval_seconds": 30,
+  "redirect_ip": "127.0.0.1",
+  "test_mode": false
+}
